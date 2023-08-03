@@ -5,3 +5,4 @@ PDF stands for "Portable Document Format," and it is a file format used to prese
 # Tools:
 - PDF generator
 - PDF content extractor
+- Merge PDFs
