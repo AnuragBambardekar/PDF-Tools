@@ -6,3 +6,14 @@ PDF stands for "Portable Document Format," and it is a file format used to prese
 - PDF generator
 - PDF content extractor
 - Merge PDFs
+
+# List of useful libraries for working with PDF's
+- PyPDF2
+- fpdf
+- pdfminer
+- pdfblumber
+- img2pdf
+- tabular
+- pdflatex
+- camelot.py
+- reportlab
