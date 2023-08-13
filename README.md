@@ -17,3 +17,14 @@ PDF stands for "Portable Document Format," and it is a file format used to prese
 - pdflatex
 - camelot.py
 - reportlab
+
+# PyPDF2 Tutorial
+- Reading a PDF file
+- Get Metadata of a PDF file
+- Get Number of pages in a PDF file
+- Splitting PDFs
+    - into multiple PDFs
+    - upto a particular page
+    - last page
+- Merging PDFs
+- Rotating a page in a PDF
