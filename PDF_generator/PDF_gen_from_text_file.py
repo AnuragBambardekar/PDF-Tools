@@ -6,9 +6,9 @@ pdf.add_page()
 
 pdf.set_font("Arial", size = 12)
 
-f = open("./input.txt", "r")
+f = open("./input2.txt", "r")
 
 for x in f:
     pdf.multi_cell(0, 5, txt = x) # width, height, text_content
 
-pdf.output("gen_PDF_from_text.pdf")  
+pdf.output("gen_PDF_from_text2.pdf")  
