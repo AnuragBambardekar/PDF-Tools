@@ -28,3 +28,8 @@ PDF stands for "Portable Document Format," and it is a file format used to prese
     - last page
 - Merging PDFs
 - Rotating a page in a PDF
+- Working with Images in a PDF
+
+### References
+- https://www.youtube.com/watch?v=VbRM5r5A7MM - PyPDF2 Crash course-I
+- https://www.youtube.com/watch?v=OdIHUdQ1-eQ - PyPDF2 Crash course-II
